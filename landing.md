@@ -24,7 +24,7 @@ nav-menu: true
 			</div>
 		</div>
   		<a href="generic.html" class="image">
-			<img src="{% link 'assets/images/Tarea 1 - Videojuegos.JPG' %}" alt="" data-position="center center" />
+			<img src="{% link videogames_dashboard %}" alt="" data-position="center center" />
 		</a>
 	</section>
 </section>
