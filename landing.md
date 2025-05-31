@@ -24,7 +24,7 @@ nav-menu: true
 			</div>
 		</div>
   		<a href="generic.html" class="image">
-			<img src="{% link videogames_dashboard %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/videogames_dashboard.jpg %}" alt="" data-position="center center" />
 		</a>
 	</section>
 </section>
@@ -33,7 +33,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/Tarea 1 - Videojuegos.JPG %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/videogames_dashboard.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
