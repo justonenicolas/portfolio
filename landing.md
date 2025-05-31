@@ -1,7 +1,7 @@
 ---
 title: Landing
 layout: landing
-description: 'Esta sección dedicada a recopilar y mostrar los proyectos de análisis de datos que he realizado<br />This section is dedicated to gather and present the data analyisis projects I've made'
+# description: 'Esta sección dedicada a recopilar y mostrar los proyectos de análisis de datos que he realizado<br />This section is dedicated to gather and present the data analyisis projects I've made'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
