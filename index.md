@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: home
 landing-title: 'Hola, soy Nicolás'
 description: null
 image: null
