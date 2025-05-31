@@ -19,7 +19,7 @@ nav-menu: true
 				</header>
 				<p>Como inicio dentro del análisis de datos, siempre se suele utilizar conjuntos de datos que permitan realizar tareas de exploración y limpieza que permitan crear hipótesis sobre la distribución de los datos y la manera en que estos pueden ser entendidos para responder preguntas de negocio. Es por esto que en este proyecto se utilizó el dataset de uso libre "Video Games Sales" para tener un primer acercamiento a la dinámica de trabajo aplicada a un proyecto real</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://github.com/justonenicolas/Games-Analysis" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
