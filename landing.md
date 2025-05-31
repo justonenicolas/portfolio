@@ -1,7 +1,7 @@
 ---
 title: Proyectos/Projects
 layout: Proyectos/Projects
-description: Esta sección dedicada a recopilar y mostrar los proyectos de análisis de datos que he realizado<br />This section is dedicated to gather and present the data analyisis projects I've made
+description: Esta sección está dedicada a recopilar y mostrar los proyectos de análisis de datos que he realizado<br />This section is dedicated to gather and present the data analyisis projects I've made
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -10,13 +10,23 @@ nav-menu: true
 <div id="main">
 
 <!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h2>Análisis de ventas de videojuegos / Videogames sales analysis</h2>
-		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
-	</div>
+<section id="one" class="spotlights">
+	<section>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h2>Análisis de ventas de videojuegos / Videogames sales analysis</h2>
+				</header>
+				<p>Como inicio dentro del análisis de datos, siempre se suele utilizar conjuntos de datos que permitan realizar tareas de exploración y limpieza que permitan crear hipótesis sobre la distribución de los datos y la manera en que estos pueden ser entendidos para responder preguntas de negocio. Es por esto que en este proyecto se utilizó el dataset de uso libre "Video Games Sales" para tener un primer acercamiento a la dinámica de trabajo aplicada a un proyecto real</p>
+				<ul class="actions">
+					<li><a href="generic.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+  		<a href="generic.html" class="image">
+			<img src="{% link assets/images/Tarea 1 - Videojuegos.JPG %}" alt="" data-position="center center" />
+		</a>
+	</section>
 </section>
 
 <!-- Two -->
