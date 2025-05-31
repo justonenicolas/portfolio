@@ -1,6 +1,6 @@
 ---
-title: landing
-layout: Proyectos/Projects
+title: Proyectos/Projects
+layout: landing
 description: Esta sección está dedicada a recopilar y mostrar los proyectos de análisis de datos que he realizado<br />This section is dedicated to gather and present the data analyisis projects I've made
 image: assets/images/pic07.jpg
 nav-menu: true
