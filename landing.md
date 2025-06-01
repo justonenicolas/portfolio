@@ -20,6 +20,9 @@ nav-menu: true
 			<ul class="actions">
 				<li><a href="https://github.com/justonenicolas/Games-Analysis" class="button">Learn more</a></li>
 			</ul>
+			<a href="generic.html" class="image">
+				<img src="{% link assets/images/videogames_dashboard.jpg %}" alt="" data-position="center center" />
+			</a>
 		</div>
 	</div>
 </section>
