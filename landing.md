@@ -1,7 +1,7 @@
 ---
 title: Proyectos/Projects
 layout: landing
-description: 🇪🇸 Esta sección está dedicada a recopilar y mostrar los proyectos de análisis de datos que he realizado<br />🇬🇧 This section is dedicated to gather and present the data analyisis projects I've made
+description:ES - Esta sección está dedicada a recopilar y mostrar los proyectos de análisis de datos que he realizado<br />EN - This section is dedicated to gather and present the data analyisis projects I've made
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -22,9 +22,6 @@ nav-menu: true
 			</ul>
 		</div>
 	</div>
-	<a href="generic.html" class="image">
-		<img src="{% link assets/images/videogames_dashboard.jpg %}" alt="" data-position="center center" />
-	</a>
 </section>
 
 <!-- Two -->
