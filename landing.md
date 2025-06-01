@@ -1,7 +1,7 @@
 ---
 title: Proyectos/Projects
 layout: landing
-description: Esta sección está dedicada a recopilar y mostrar los proyectos de análisis de datos que he realizado<br />This section is dedicated to gather and present the data analyisis projects I've made
+description: 🇪🇸 Esta sección está dedicada a recopilar y mostrar los proyectos de análisis de datos que he realizado<br />🇬🇧 This section is dedicated to gather and present the data analyisis projects I've made
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -11,22 +11,20 @@ nav-menu: true
 
 <!-- One -->
 <section id="one" class="spotlights">
-	<section>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h2>Análisis de ventas de videojuegos / Videogames sales analysis</h2>
-				</header>
-				<p>Como inicio dentro del análisis de datos, siempre se suele utilizar conjuntos de datos que permitan realizar tareas de exploración y limpieza que permitan crear hipótesis sobre la distribución de los datos y la manera en que estos pueden ser entendidos para responder preguntas de negocio. Es por esto que en este proyecto se utilizó el dataset de uso libre "Video Games Sales" para tener un primer acercamiento a la dinámica de trabajo aplicada a un proyecto real</p>
-				<ul class="actions">
-					<li><a href="https://github.com/justonenicolas/Games-Analysis" class="button">Learn more</a></li>
-				</ul>
-			</div>
+	<div class="content">
+		<div class="inner">
+			<header class="major">
+				<h2>Análisis de ventas de videojuegos</h2>
+			</header>
+			<p>Como inicio dentro del análisis de datos, siempre se suele utilizar conjuntos de datos que permitan realizar tareas de exploración y limpieza que permitan crear hipótesis sobre la distribución de los datos y la manera en que estos pueden ser entendidos para responder preguntas de negocio. Es por esto que en este proyecto se utilizó el dataset de uso libre "Video Games Sales" para tener un primer acercamiento a la dinámica de trabajo aplicada a un proyecto real</p>
+			<ul class="actions">
+				<li><a href="https://github.com/justonenicolas/Games-Analysis" class="button">Learn more</a></li>
+			</ul>
 		</div>
-  		<a href="generic.html" class="image">
-			<img src="{% link assets/images/videogames_dashboard.jpg %}" alt="" data-position="center center" />
-		</a>
-	</section>
+	</div>
+	<a href="generic.html" class="image">
+		<img src="{% link assets/images/videogames_dashboard.jpg %}" alt="" data-position="center center" />
+	</a>
 </section>
 
 <!-- Two -->
