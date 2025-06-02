@@ -1,7 +1,7 @@
 ---
 title: Proyectos/Projects
 layout: landing
-description: ES - Esta sección está dedicada a recopilar y mostrar los proyectos de análisis de datos que he realizado<br />EN - This section is dedicated to gather and present the data analyisis projects I've made
+description: ES - Esta sección está dedicada a recopilar y mostrar los proyectos de análisis de datos que he realizado hasta el momento<br />EN - This section is dedicated to gather and present the data analyisis projects I've made until this moment
 image: assets/images/videogames_dashboard.jpg
 nav-menu: true
 ---
@@ -16,7 +16,7 @@ nav-menu: true
 			<header class="major">
 				<h2>Análisis de ventas de videojuegos</h2>
 			</header>
-			<p>Como inicio dentro del análisis de datos, siempre se suele utilizar conjuntos de datos que permitan realizar tareas de exploración y limpieza que permitan crear hipótesis sobre la distribución de los datos y la manera en que estos pueden ser entendidos para responder preguntas de negocio. Es por esto que en este proyecto se utilizó el dataset de uso libre "Video Games Sales" para tener un primer acercamiento a la dinámica de trabajo aplicada a un proyecto real</p>
+			<p>Como inicio dentro del análisis de datos, siempre se suele utilizar conjuntos de datos que permitan realizar tareas de exploración y limpieza con las cuales se puedan plantear hipótesis sobre la distribución de los datos y la manera en que estos pueden ser entendidos para responder preguntas de negocio. Es por esto que en este proyecto se utilizó el dataset de uso libre "Video Games Sales" para tener un primer acercamiento a la dinámica de trabajo aplicada a un proyecto real de análisis de datos</p>
 			<ul class="actions">
 				<li><a href="https://github.com/justonenicolas/Games-Analysis" class="button">Learn more</a></li>
 			</ul>
