@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Elements
-image: assets/images/Photo.jpg
+image: 
 nav-menu: true
 ---
 
