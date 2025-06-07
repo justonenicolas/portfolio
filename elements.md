@@ -1,11 +1,10 @@
----Add commentMore actions
+---
 layout: page
 title: Elements
-image: assets/images/pic01.jpg
+image: assets/images/Photo.jpg
 nav-menu: true
 ---
 
-@@ -12,400 +12,13 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
