@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre mí
-image: master/Photo.jpeg
+image: assets/images/Photo.jpeg
 nav-menu: true
 ---
 
